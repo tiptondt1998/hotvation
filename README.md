@@ -1,5 +1,5 @@
 # hotvation
-[!image](https://postimg.cc/0bHvHdT6)
+[image](https://postimg.cc/0bHvHdT6)
 ## Table of Contents
 * [Github](README.md/#Github)
 * [Description](README.md/#Description)
